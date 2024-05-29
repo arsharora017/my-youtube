@@ -1,9 +1,12 @@
 import "./App.css";
+import Body from "./components/Body";
+import Head from "./components/Head";
 
 function App() {
   return (
     <div>
-      <h1 className="text-orange-600">React</h1>
+      <Head />
+      <Body />
     </div>
   );
 }
