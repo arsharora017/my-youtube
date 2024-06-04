@@ -59,12 +59,13 @@ const Head = () => {
           alt="menu"
           src="https://cdn.iconscout.com/icon/free/png-256/free-hamburger-menu-462145.png?f=webp"
         />
-
-        <img
-          className="h-14 mx-2"
-          alt="youtube logo"
-          src="https://lh3.googleusercontent.com/3zkP2SYe7yYoKKe47bsNe44yTgb4Ukh__rBbwXwgkjNRe4PykGG409ozBxzxkrubV7zHKjfxq6y9ShogWtMBMPyB3jiNps91LoNH8A=s500"
-        />
+        <a href="/">
+          <img
+            className="h-14 mx-2"
+            alt="youtube logo"
+            src="https://lh3.googleusercontent.com/3zkP2SYe7yYoKKe47bsNe44yTgb4Ukh__rBbwXwgkjNRe4PykGG409ozBxzxkrubV7zHKjfxq6y9ShogWtMBMPyB3jiNps91LoNH8A=s500"
+          />
+        </a>
       </div>
       <div className="col-span-10 px-10">
         <div>
